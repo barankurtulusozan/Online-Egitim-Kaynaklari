@@ -1,3 +1,4 @@
+
 > * [Coursera 			    : Everything included Computer Science](www.coursera.org)
 > * [EDX 				        : Everything included Computer Science](www.edx.org)
 > * [MIT OpenCourseware : Everything included Computer Science](ocw.mit.edu)
@@ -25,7 +26,7 @@
 > * [KHAN Academy 		  : HTML&CSS|JS](www.khanacademy.org/computing/computer-programming)
 > * [Code.org			      : Coding](code.org/learn)
 > * [LiipBlog 			    : SW Eng w/ PHP](http://blog.liip.ch/archive/2014/11/05/functional-programming-in-php.html)
-> * [HTML5Rocks			    : Web Articles for Advanced]www.html5rocks.com/en/)
+> * [HTML5Rocks			    : Web Articles for Advanced](www.html5rocks.com/en/)
 > * [Project Euler		  : Challenging Problems For Computer Engineers](www.projecteuler.net)
 > * [ComputerScience1 	: Harward Computer Science](computerscience1.tv)
 > * [Puzzle Node		    : Challenges For Coders](www.puzzlenode.com)
@@ -34,6 +35,6 @@
 > * [CodeProject 	    	: Everything about Coding](www.codeproject.com)
 > * [confreaks 			    : Everything New For The Curious](www.confreaks.com)
 > * [Wikiversity 		    : Everything](en.wikiversity.org)
-> * [MS Virtual Academy : .NET]www.microsoftvirtualacademy.com)
+> * [MS Virtual Academy : .NET](www.microsoftvirtualacademy.com)
 > * [CodePlex 			    : Project Hosting for Open Source Software](http://www.codeplex.com/))
 > * [GitBooks 			    : Open Source For the Open Minded](www.gitbook.com/book/gitbookio/javascript/details)
