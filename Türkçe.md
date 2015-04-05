@@ -14,6 +14,7 @@
 > * [Kodcu              : Programlama](http://kodcu.com/)
 > * [Yakut Er           : Programlama](http://www.yakuter.com/)
 > * [M.Salih Deveci     : Programlama](http://mehmetsalihdeveci.net/)
+> * [Seyret Öğren       : Programlama](http://www.seyretogren.com/)
 > * [Vidobu             : Programlama ve Diğer](http://www.vidobu.com/egitim/)
 > * [Bilgiseven         : Programlama ve Diğer](http://bilgiseven.com/)
 > * [inploid            : Soru-Cevap](http://www.inploid.com/)
