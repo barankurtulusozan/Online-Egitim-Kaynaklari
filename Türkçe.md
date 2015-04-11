@@ -30,3 +30,4 @@
 > * [AKampus            : Ders Notları](http://www.akampus.com/index.asp)
 > * [TÜBA               : Açık Ders Materyalleri](http://www.acikders.org.tr/)
 > * [Bilişim TV         ](http://bilisimtv.com/)
+> * [Bilgisayar Mühendisliği Eğitiminde Kavramlar ve Dersler](http://bilgisayarkavramlari.sadievrenseker.com/)
