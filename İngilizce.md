@@ -38,3 +38,4 @@
 > * [MS Virtual Academy : .NET](www.microsoftvirtualacademy.com)
 > * [CodePlex 			    : Project Hosting for Open Source Software](http://www.codeplex.com/))
 > * [GitBooks 			    : Open Source For the Open Minded](www.gitbook.com/book/gitbookio/javascript/details)
+> * [RosettaCode        : Programming Solutions for Common Problems in Many  Languages](http://rosettacode.org/wiki/Rosetta_Code)
